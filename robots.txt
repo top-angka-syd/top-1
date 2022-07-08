@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://top-angka-syd.github.io/top-1/sitemap.xml
